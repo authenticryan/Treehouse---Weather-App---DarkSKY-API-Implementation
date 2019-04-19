@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="alert_dialog_fragment_error_title">Opps! Sorry</string>
+    <string name="error_try_again">There was an error. Please try again</string>
+    <string name="error_ok">OK</string>
+    <string name="network_unavailable">Network Unavailable</string>
+    <string name="powered_by_darksky"><a href="https://darksky.net/poweredby">Powered by DarkSky</a></string>
+</resources>
